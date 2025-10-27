@@ -2,7 +2,6 @@
 Assignment repository for UNT CSCE1015
 ## EUID
 rkd0060
-## cd
+## Favorite Linux Command
 ls -la
-**Favorite Linux Command**
-cd
+
