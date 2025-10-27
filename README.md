@@ -4,3 +4,5 @@ Assignment repository for UNT CSCE1015
 rkd0060
 ## cd
 ls -la
+**Favorite Linux Command**
+cd
